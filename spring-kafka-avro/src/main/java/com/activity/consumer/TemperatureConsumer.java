@@ -9,9 +9,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class TemperatureConsumer {
 
-    // @KafkaListener(topics = "${topic.name}", groupId = "temperature-group")
     @KafkaListener(
-    topics = "temperature-conversion",
+    topics = "${topic.name}",
     groupId = "temp-conversion-group",
     containerFactory = "kafkaListenerContainerFactory"
 )
@@ -50,7 +49,6 @@ public class TemperatureConsumer {
             .setResult(result)
             .build();
 
-        // System.out.println("Converted Temperature: " + result);
         System.out.println("Conversion Result: " + conversion.getResult());
     }
 }
