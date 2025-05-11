@@ -1,0 +1,11 @@
+{
+  "namespace": "com.activity.dto",
+  "type": "record",
+  "name": "TemperatureConversion",
+  "fields": [
+    { "name": "value", "type": "double" },
+    { "name": "fromUnit", "type": "string" },
+    { "name": "toUnit", "type": "string" },
+    { "name": "result", "type": ["null", "double"], "default": null }
+  ]
+}

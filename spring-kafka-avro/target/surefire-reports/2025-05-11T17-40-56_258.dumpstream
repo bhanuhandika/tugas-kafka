@@ -1,0 +1,5 @@
+# Created at 2025-05-11T17:40:56.727
+Boot Manifest-JAR contains absolute paths in classpath 'D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

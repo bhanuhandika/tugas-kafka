@@ -1,0 +1,8 @@
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\consumer\TemperatureConsumer.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\config\KafkaConfig.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\dto\TemperatureConversion.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\KafkaSchemaRegistryApplication.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\config\KafkaConsumerConfig.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\controller\TemperatureController.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\producer\TemperatureProducer.java
+D:\WORK\OGYA\Training\KAFKA\kafka-avro-springboot\spring-kafka-avro\src\main\java\com\activity\request\TemperatureRequest.java

@@ -1,0 +1,9 @@
+com\activity\KafkaSchemaRegistryApplication.class
+com\activity\producer\TemperatureProducer.class
+com\activity\config\KafkaConfig.class
+com\activity\controller\TemperatureController.class
+com\activity\consumer\TemperatureConsumer.class
+com\activity\dto\TemperatureConversion$Builder.class
+com\activity\dto\TemperatureConversion.class
+com\activity\config\KafkaConsumerConfig.class
+com\activity\request\TemperatureRequest.class
